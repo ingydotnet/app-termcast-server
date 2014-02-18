@@ -138,7 +138,7 @@ Port to which the broadcasters will point their termcast clients
 has termcast_port => (
     is  => 'ro',
     isa => 'Int',
-    default => 31337,
+    default => $ENV{STACKATO_HARBOR_APP_TERMCAST_SERVER_PORT},
 );
 
 =attr termcast_listener

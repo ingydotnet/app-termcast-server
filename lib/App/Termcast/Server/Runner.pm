@@ -31,7 +31,7 @@ sub _build_socket {
 has port => (
     is            => 'ro',
     isa           => 'Int',
-    default       => 31337,
+    default       => $ENV{STACKATO_HARBOR_APP_TERMCAST_SERVER_PORT},
     documentation => 'TCP port that streamers will use termcast to connect to',
 );
 
