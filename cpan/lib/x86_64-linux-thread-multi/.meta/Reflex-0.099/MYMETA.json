@@ -1,0 +1,45 @@
+{
+   "abstract" : "A class library for flexible, reactive programming.",
+   "author" : [
+      "Rocco Caputo <rcaputo@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.300020, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Reflex",
+   "prereqs" : {
+      "build" : {
+         "requires" : {}
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.30"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Moose" : "2.0203",
+            "MooseX::Role::Parameterized" : "0.23",
+            "POE" : "1.294",
+            "Scalar::Util" : "1.23",
+            "Test::More" : "0.96"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://rt.cpan.org/Public/Dist/Display.html?Name=Reflex"
+      },
+      "repository" : {
+         "url" : "git://github.com/rcaputo/reflex.git"
+      }
+   },
+   "version" : "0.099"
+}

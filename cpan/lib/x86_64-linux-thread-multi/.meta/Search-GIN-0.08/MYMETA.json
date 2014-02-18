@@ -1,0 +1,51 @@
+{
+   "abstract" : "Generalized Inverted Indexing",
+   "author" : [
+      "Yuval Kogman <nothingmuch@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.200001, CPAN::Meta::Converter version 2.102400, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Search-GIN",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "File::Find" : "0",
+            "File::Temp" : "0",
+            "MooseX::Types::Set::Object" : "0",
+            "Test::More" : "0",
+            "Test::TempDir" : "0",
+            "ok" : "0",
+            "overload" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.31"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Carp" : "0",
+            "Data::Stream::Bulk::Util" : "0",
+            "MRO::Compat" : "0",
+            "Moose" : "0.89",
+            "Moose::Role" : "0",
+            "Scalar::Util" : "0",
+            "Scope::Guard" : "0",
+            "Set::Object" : "0",
+            "Test::Deep::NoTest" : "0",
+            "constant" : "0",
+            "namespace::clean" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.08"
+}

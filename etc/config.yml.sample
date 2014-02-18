@@ -1,4 +1,0 @@
----
-host: myhost.com
-socket: connections.sock
-# log: log/

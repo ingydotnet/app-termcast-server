@@ -1,0 +1,1 @@
+{"provides":{"Test::TempDir::Handle":{"version":"0.08","file":"lib/Test/TempDir/Handle.pm"},"Test::TempDir":{"version":"0.08","file":"lib/Test/TempDir.pm"},"Test::TempDir::Factory":{"version":"0.08","file":"lib/Test/TempDir/Factory.pm"}},"target":"Test::TempDir","version":"0.08","name":"Test::TempDir","dist":"Test-TempDir-0.08","pathname":"E/ET/ETHER/Test-TempDir-0.08.tar.gz"}

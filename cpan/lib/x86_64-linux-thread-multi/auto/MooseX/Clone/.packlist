@@ -1,0 +1,12 @@
+/home/stackato/app/app-termcast-server/perl5/lib/perl5/MooseX/Clone.pm
+/home/stackato/app/app-termcast-server/perl5/lib/perl5/MooseX/Clone/Meta/Attribute/Trait/Clone.pm
+/home/stackato/app/app-termcast-server/perl5/lib/perl5/MooseX/Clone/Meta/Attribute/Trait/Clone/Base.pm
+/home/stackato/app/app-termcast-server/perl5/lib/perl5/MooseX/Clone/Meta/Attribute/Trait/Clone/Std.pm
+/home/stackato/app/app-termcast-server/perl5/lib/perl5/MooseX/Clone/Meta/Attribute/Trait/Copy.pm
+/home/stackato/app/app-termcast-server/perl5/lib/perl5/MooseX/Clone/Meta/Attribute/Trait/NoClone.pm
+/home/stackato/app/app-termcast-server/perl5/lib/perl5/MooseX/Clone/Meta/Attribute/Trait/StorableClone.pm
+/home/stackato/app/app-termcast-server/perl5/man/man3/MooseX::Clone.3
+/home/stackato/app/app-termcast-server/perl5/man/man3/MooseX::Clone::Meta::Attribute::Trait::Clone.3
+/home/stackato/app/app-termcast-server/perl5/man/man3/MooseX::Clone::Meta::Attribute::Trait::Copy.3
+/home/stackato/app/app-termcast-server/perl5/man/man3/MooseX::Clone::Meta::Attribute::Trait::NoClone.3
+/home/stackato/app/app-termcast-server/perl5/man/man3/MooseX::Clone::Meta::Attribute::Trait::StorableClone.3
