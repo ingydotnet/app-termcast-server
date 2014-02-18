@@ -1582,3 +1582,465 @@ C<EXE_FILES: bin/stream_ttyrec bin/termcast>
 
 =back
 
+=head2 Tue Feb 18 08:32:46 2014: C<Module> L<Data::Dumper::Concise|Data::Dumper::Concise>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.021>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:32:52 2014: C<Module> L<Config::Any|Config::Any>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:32:55 2014: C<Module> L<Context::Preserve|Context::Preserve>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:33:06 2014: C<Module> L<Class::XSAccessor|Class::XSAccessor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:33:08 2014: C<Module> L<Class::Accessor::Grouped|Class::Accessor::Grouped>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:33:13 2014: C<Module> L<Hash::Merge|Hash::Merge>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.200>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:33:19 2014: C<Module> L<File::Slurp::Tiny|File::Slurp::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:33:26 2014: C<Module> L<Test::Warn|Test::Warn>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:33:28 2014: C<Module> L<SQL::Abstract|SQL::Abstract>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.77>
+
+=item *
+
+C<EXE_FILES: script/format-sql>
+
+=back
+
+=head2 Tue Feb 18 08:33:44 2014: C<Module> L<Number::Compare|Number::Compare>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:33:47 2014: C<Module> L<File::Find::Rule|File::Find::Rule>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: findrule>
+
+=back
+
+=head2 Tue Feb 18 08:33:49 2014: C<Module> L<Data::Compare|Data::Compare>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:33:54 2014: C<Module> L<Class::Inspector|Class::Inspector>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:33:56 2014: C<Module> L<Class::C3::Componentised|Class::C3::Componentised>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:34:00 2014: C<Module> L<Module::Find|Module::Find>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:34:12 2014: C<Module> L<DBIx::Class|DBIx::Class>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08270>
+
+=item *
+
+C<EXE_FILES: script/dbicadmin>
+
+=back
+
+=head2 Tue Feb 18 08:34:23 2014: C<Module> L<File::ShareDir|File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:34:27 2014: C<Module> L<Package::Variant|Package::Variant>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.002000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:34:36 2014: C<Module> L<XML::Writer|XML::Writer>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.624>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb 18 08:34:46 2014: C<Module> L<SQL::Translator|SQL::Translator>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11018>
+
+=item *
+
+C<EXE_FILES: script/sqlt-diagram script/sqlt-diff script/sqlt-diff-old script/sqlt-dumper script/sqlt-graph script/sqlt>
+
+=back
+
+=head2 Tue Feb 18 08:34:48 2014: C<Module> L<KiokuDB::Backend::DBI|KiokuDB::Backend::DBI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/stackato/app/app-termcast-server/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
