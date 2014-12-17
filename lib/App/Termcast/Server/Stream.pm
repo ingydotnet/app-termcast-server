@@ -256,7 +256,7 @@ sub _process_input {
     }
 
     my $cleared = 0;
-    if ($input =~ s/\e\[H\x00(.*?)\xff\e\[H\e\[2J//) {
+    if ($input =~ s/\e]499;(.*?)\x07//) {
         my $metadata;
         if (
             $1 && try { $metadata = JSON::decode_json( $1 ) }
